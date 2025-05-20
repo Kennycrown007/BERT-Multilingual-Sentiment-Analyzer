@@ -37,7 +37,7 @@ This tool:
 ## ⚙️ Installation
 
 1. Clone the repository:
-   git clone https://github.com/yourusername/multilingual-sentiment-analysis.git
+   git clone [https://github.com/Kennycrown007/BERT-Multilingual-Sentiment-Analyzer.git]
    cd multilingual-sentiment-analysis
 
 2. Install dependencies:
